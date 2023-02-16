@@ -1,8 +1,8 @@
 ### Bem-vindo(a) ao perfil do Douglasruaan 👋
 
 
-- 🔭 Hojê atualmente sou proprietário da empresa D.R Refrigeração 
-- 🌱 Estudando HTML,CSS,JS,REACT,ANDROID
+- 🔭 Today I am the owner of the company D.R Refrigeration.
+- 🌱 Studying HTML,CSS,JS,REACT,ANDROID. 
 - 📫 douglas_ruan@hotmail.com 
 
 ##
